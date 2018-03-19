@@ -1,2 +1,5 @@
 # test123
-```cpp #include “argh.h”```
+It doesn’t get much simpler than this: ```cpp #include “argh.h”
+
+int main(int, char* argv[]) { argh::parser cmdl(argv);```
+
